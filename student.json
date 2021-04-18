@@ -1,0 +1,15 @@
+{
+	"id": 122324,
+	"name": "Aditya Dubey",
+	"course": "MS",
+	"subjects": [
+		"Maths",
+		"English",
+		"Science"
+	],
+	"email": "aadidubey7@gmail.com",
+    "thesis": {
+        "title": "A scientific explanation of COVID-19 and its epidemiology.",
+        "description": ""
+    }
+}
